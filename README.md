@@ -46,3 +46,5 @@ But Python's mathematical might doesn't stop there. The SymPy library brings sym
 [Programming](https://github.com/sourceduty/Programming)
 <br>
 [Quantum](https://github.com/sourceduty/Quantum)
+<br>
+[AI](https://github.com/sourceduty/AI)
